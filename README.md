@@ -1,4 +1,4 @@
-### Run Client Side and Server Side with one command
+### Run App
 - npm run pkg:install
 - npm run db:seed
 - npm run dev:start
